@@ -4,7 +4,8 @@
     "isAnimated": false,
     "name": "Air Horns",
     "packId": "1",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
+    "eventTag": "event_tag/new_year.webp",
     "priority": 1
   },
   {
@@ -12,7 +13,7 @@
     "isAnimated": false,
     "name": "Baby2",
     "packId": "2",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 2
   },
   {
@@ -20,7 +21,7 @@
     "isAnimated": false,
     "name": "BlackCat",
     "packId": "3",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 3
   },
   {
@@ -28,7 +29,7 @@
     "isAnimated": false,
     "name": "CatEmoji",
     "packId": "4",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 4
   },
   {
@@ -36,7 +37,7 @@
     "isAnimated": false,
     "name": "CatFunny2",
     "packId": "5",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 5
   },
   {
@@ -44,7 +45,7 @@
     "isAnimated": false,
     "name": "CatLove",
     "packId": "6",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 6
   },
   {
@@ -52,7 +53,7 @@
     "isAnimated": false,
     "name": "CatLove3",
     "packId": "7",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 7
   },
   {
@@ -60,7 +61,7 @@
     "isAnimated": false,
     "name": "CatMeme",
     "packId": "8",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 8
   },
   {
@@ -68,7 +69,7 @@
     "isAnimated": false,
     "name": "CatMeme3",
     "packId": "9",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 9
   },
   {
@@ -76,7 +77,7 @@
     "isAnimated": false,
     "name": "CuteCat",
     "packId": "10",
-    "thumbnail": "1.webp",
+    "thumbnail": "sound_resources/1.webp",
     "priority": 10
   }
 ]
