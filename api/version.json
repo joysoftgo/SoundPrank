@@ -1,34 +1,18 @@
 {
-  "whatsapp_category": {
-    "model": "whatsapp_category",
+  "sound_resources": {
+    "model": "sound_resources",
     "publish_version": "1.0.0"
   },
-  "whatsapp_pack": {
-    "model": "whatsapp_pack",
-    "publish_version": "2.0.1"
-  },
-  "whatsapp_sticker": {
-    "model": "whatsapp_sticker",
-    "publish_version": "2.0.1"
-  },
-  "font": {
-    "model": "font",
+  "thumbnails": {
+    "model": "thumbnails",
     "publish_version": "1.0.0"
   },
-  "sticker": {
-    "model": "sticker",
+  "sounds": {
+    "model": "sounds",
     "publish_version": "1.0.0"
   },
-  "sticker_category": {
-    "model": "sticker_category",
-    "publish_version": "1.0.1"
-  },
-  "preset_text": {
-    "model": "preset_text",
-    "publish_version": "1.0.0"
-  },
-  "preset_text_category": {
-    "model": "preset_text_category",
+  "sound_categories": {
+    "model": "sound_categories",
     "publish_version": "1.0.0"
   },
   "inherit": true

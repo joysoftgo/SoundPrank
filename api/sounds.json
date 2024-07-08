@@ -4,83 +4,95 @@
     "name": "Black White",
     "count": 24,
     "priority": 6,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "2",
     "name": "Bubble Text",
     "count": 30,
     "priority": 13,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "3",
     "name": "Cat Ears",
     "count": 20,
     "priority": 7,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "4",
     "name": "Cute Face",
     "count": 24,
     "priority": 5,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "5",
     "name": "Emoji",
     "count": 27,
     "priority": 4,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "6",
     "name": "Glasses",
     "count": 19,
     "priority": 9,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "7",
     "name": "Hair",
     "count": 24,
     "priority": 10,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "8",
     "name": "Hat",
     "count": 33,
     "priority": 11,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "9",
     "name": "Merry Christmas",
     "count": 27,
     "priority": 8,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "10",
     "name": "Wing",
     "count": 30,
     "priority": 12,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "11",
     "name": "Bunny",
     "count": 26,
     "priority": 0,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   },
   {
     "id": "12",
     "name": "Emoji Heart",
     "count": 31,
     "priority": 1,
-    "background_color": "#F2F2F2"
+    "packID": "1",
+    "thumbnail": "1.webp"
   }
   ]

@@ -2,92 +2,81 @@
   {
     "count": 30,
     "isAnimated": false,
-    "name": "Baby",
-    "packId": "baby_static_0",
+    "name": "Air Horns",
+    "packId": "1",
+    "thumbnail": "1.webp",
     "priority": 1
   },
   {
     "count": 30,
     "isAnimated": false,
     "name": "Baby2",
-    "packId": "baby_static_2",
-    "priority": 3
+    "packId": "2",
+    "thumbnail": "1.webp",
+    "priority": 2
   },
   {
     "count": 24,
     "isAnimated": false,
     "name": "BlackCat",
-    "packId": "cat_static_0",
-    "priority": 9
+    "packId": "3",
+    "thumbnail": "1.webp",
+    "priority": 3
   },
   {
     "count": 15,
     "isAnimated": false,
     "name": "CatEmoji",
-    "packId": "cat_static_1",
-    "priority": 7
+    "packId": "4",
+    "thumbnail": "1.webp",
+    "priority": 4
   },
   {
     "count": 30,
     "isAnimated": false,
     "name": "CatFunny2",
-    "packId": "cat_static_4",
-    "priority": 8
+    "packId": "5",
+    "thumbnail": "1.webp",
+    "priority": 5
   },
   {
     "count": 16,
     "isAnimated": false,
     "name": "CatLove",
-    "packId": "cat_static_5",
-    "priority": 1
+    "packId": "6",
+    "thumbnail": "1.webp",
+    "priority": 6
   },
   {
     "count": 30,
     "isAnimated": false,
     "name": "CatLove3",
-    "packId": "cat_static_7",
-    "priority": 6
+    "packId": "7",
+    "thumbnail": "1.webp",
+    "priority": 7
   },
   {
     "count": 30,
     "isAnimated": false,
     "name": "CatMeme",
-    "packId": "cat_static_10",
-    "priority": 1
+    "packId": "8",
+    "thumbnail": "1.webp",
+    "priority": 8
   },
   {
     "count": 30,
     "isAnimated": false,
     "name": "CatMeme3",
-    "packId": "cat_static_12",
-    "priority": 2
+    "packId": "9",
+    "thumbnail": "1.webp",
+    "priority": 9
   },
   {
     "count": 30,
     "isAnimated": false,
     "name": "CuteCat",
-    "packId": "cat_static_14",
-    "priority": 2
-  },
-  {
-    "count": 29,
-    "isAnimated": false,
-    "name": "FatCat",
-    "packId": "cat_static_15",
-    "priority": 1
-  },
-  {
-    "count": 28,
-    "isAnimated": false,
-    "name": "FatCat2",
-    "packId": "cat_static_16",
-    "priority": 6
-  },
-  {
-    "count": 30,
-    "isAnimated": false,
-    "name": "FatCat3",
-    "packId": "cat_static_17",
-    "priority": 8
+    "packId": "10",
+    "thumbnail": "1.webp",
+    "priority": 10
   }
 ]
