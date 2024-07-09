@@ -1,0 +1,56 @@
+[
+  {
+    "id": 23,
+    "name": "Breaking 1",
+    "priority": 1,
+    "thumbnail": "drawable/breaking_1.jpg",
+    "categoryId": 3,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 24,
+    "name": "Breaking 2",
+    "priority": 2,
+    "thumbnail": "drawable/breaking_2.jpg",
+    "categoryId": 3,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 25,
+    "name": "Breaking 3",
+    "priority": 3,
+    "thumbnail": "drawable/breaking_3.jpg",
+    "categoryId": 3,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 26,
+    "name": "Breaking 4",
+    "priority": 4,
+    "thumbnail": "drawable/breaking_4.jpg",
+    "categoryId": 3,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 27,
+    "name": "Breaking 5",
+    "priority": 5,
+    "thumbnail": "drawable/breaking_5.jpg",
+    "categoryId": 3,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 28,
+    "name": "Breaking 6",
+    "priority": 6,
+    "thumbnail": "drawable/breaking_6.jpg",
+    "categoryId": 3,
+    "isEvent": false,
+    "isNew": false
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 101,
+    "name": "Gun 1",
+    "priority": 1,
+    "thumbnail": "drawable/gun_1.jpg",
+    "categoryId": 9,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 102,
+    "name": "Gun 2",
+    "priority": 2,
+    "thumbnail": "drawable/gun_2.jpg",
+    "categoryId": 9,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 103,
+    "name": "Gun 3",
+    "priority": 3,
+    "thumbnail": "drawable/gun_3.jpg",
+    "categoryId": 9,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 104,
+    "name": "Gun 4",
+    "priority": 4,
+    "thumbnail": "drawable/gun_4.jpg",
+    "categoryId": 9,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 105,
+    "name": "Gun 5",
+    "priority": 5,
+    "thumbnail": "drawable/gun_5.jpg",
+    "categoryId": 9,
+    "isEvent": false,
+    "isNew": false
+  },
+  {
+    "id": 106,
+    "name": "Gun 6",
+    "priority": 6,
+    "thumbnail": "drawable/gun_6.jpg",
+    "categoryId": 9,
+    "isEvent": false,
+    "isNew": false
+  }
+]
