@@ -3,7 +3,7 @@
     "id": 107,
     "name": "Hair Clipper 1",
     "priority": 1,
-    "thumbnail": "drawable/hair_clipper_1.jpg",
+    "thumbnail": "image_resources/hair_clipper_1.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -12,7 +12,7 @@
     "id": 108,
     "name": "Hair Clipper 2",
     "priority": 2,
-    "thumbnail": "drawable/hair_clipper_2.jpg",
+    "thumbnail": "image_resources/hair_clipper_2.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -21,7 +21,7 @@
     "id": 109,
     "name": "Hair Clipper 3",
     "priority": 3,
-    "thumbnail": "drawable/hair_clipper_3.jpg",
+    "thumbnail": "image_resources/hair_clipper_3.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -30,7 +30,7 @@
     "id": 110,
     "name": "Hair Clipper 4",
     "priority": 4,
-    "thumbnail": "drawable/hair_clipper_4.jpg",
+    "thumbnail": "image_resources/hair_clipper_4.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -39,7 +39,7 @@
     "id": 111,
     "name": "Hair Clipper 5",
     "priority": 5,
-    "thumbnail": "drawable/hair_clipper_5.jpg",
+    "thumbnail": "image_resources/hair_clipper_5.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -48,7 +48,7 @@
     "id": 112,
     "name": "Hair Clipper 6",
     "priority": 6,
-    "thumbnail": "drawable/hair_clipper_6.jpg",
+    "thumbnail": "image_resources/hair_clipper_6.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -57,7 +57,7 @@
     "id": 113,
     "name": "Hair Clipper 7",
     "priority": 7,
-    "thumbnail": "drawable/hair_clipper_7.jpg",
+    "thumbnail": "image_resources/hair_clipper_7.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -66,7 +66,7 @@
     "id": 114,
     "name": "Hair Clipper 8",
     "priority": 8,
-    "thumbnail": "drawable/hair_clipper_8.jpg",
+    "thumbnail": "image_resources/hair_clipper_8.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -75,7 +75,7 @@
     "id": 115,
     "name": "Hair Clipper 9",
     "priority": 9,
-    "thumbnail": "drawable/hair_clipper_9.jpg",
+    "thumbnail": "image_resources/hair_clipper_9.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -84,7 +84,7 @@
     "id": 116,
     "name": "Hair Clipper 10",
     "priority": 10,
-    "thumbnail": "drawable/hair_clipper_10.jpg",
+    "thumbnail": "image_resources/hair_clipper_10.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -93,7 +93,7 @@
     "id": 117,
     "name": "Hair Clipper 11",
     "priority": 11,
-    "thumbnail": "drawable/hair_clipper_11.jpg",
+    "thumbnail": "image_resources/hair_clipper_11.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false
@@ -102,7 +102,7 @@
     "id": 118,
     "name": "Hair Clipper 12",
     "priority": 12,
-    "thumbnail": "drawable/hair_clipper_12.jpg",
+    "thumbnail": "image_resources/hair_clipper_12.jpg",
     "categoryId": 10,
     "isEvent": false,
     "isNew": false

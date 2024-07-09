@@ -3,7 +3,7 @@
     "id": 66,
     "name": "Door Bell 1",
     "priority": 1,
-    "thumbnail": "drawable/door_bell_1.jpg",
+    "thumbnail": "image_resources/door_bell_1.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -12,7 +12,7 @@
     "id": 67,
     "name": "Door Bell 2",
     "priority": 2,
-    "thumbnail": "drawable/door_bell_2.jpg",
+    "thumbnail": "image_resources/door_bell_2.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -21,7 +21,7 @@
     "id": 68,
     "name": "Door Bell 3",
     "priority": 3,
-    "thumbnail": "drawable/door_bell_3.jpg",
+    "thumbnail": "image_resources/door_bell_3.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -30,7 +30,7 @@
     "id": 69,
     "name": "Door Bell 4",
     "priority": 4,
-    "thumbnail": "drawable/door_bell_4.jpg",
+    "thumbnail": "image_resources/door_bell_4.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -39,7 +39,7 @@
     "id": 70,
     "name": "Door Bell 5",
     "priority": 5,
-    "thumbnail": "drawable/door_bell_5.jpg",
+    "thumbnail": "image_resources/door_bell_5.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -48,7 +48,7 @@
     "id": 71,
     "name": "Door Bell 6",
     "priority": 6,
-    "thumbnail": "drawable/door_bell_6.jpg",
+    "thumbnail": "image_resources/door_bell_6.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -57,7 +57,7 @@
     "id": 72,
     "name": "Door Bell 7",
     "priority": 7,
-    "thumbnail": "drawable/door_bell_7.jpg",
+    "thumbnail": "image_resources/door_bell_7.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -66,7 +66,7 @@
     "id": 73,
     "name": "Door Bell 8",
     "priority": 8,
-    "thumbnail": "drawable/door_bell_8.jpg",
+    "thumbnail": "image_resources/door_bell_8.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -75,7 +75,7 @@
     "id": 74,
     "name": "Door Bell 9",
     "priority": 9,
-    "thumbnail": "drawable/door_bell_9.jpg",
+    "thumbnail": "image_resources/door_bell_9.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -84,7 +84,7 @@
     "id": 75,
     "name": "Door Bell 10",
     "priority": 10,
-    "thumbnail": "drawable/door_bell_10.jpg",
+    "thumbnail": "image_resources/door_bell_10.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -93,7 +93,7 @@
     "id": 76,
     "name": "Door Bell 11",
     "priority": 11,
-    "thumbnail": "drawable/door_bell_11.jpg",
+    "thumbnail": "image_resources/door_bell_11.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -102,7 +102,7 @@
     "id": 77,
     "name": "Door Bell 12",
     "priority": 12,
-    "thumbnail": "drawable/door_bell_12.jpg",
+    "thumbnail": "image_resources/door_bell_12.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -111,7 +111,7 @@
     "id": 78,
     "name": "Door Bell 13",
     "priority": 13,
-    "thumbnail": "drawable/door_bell_13.jpg",
+    "thumbnail": "image_resources/door_bell_13.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false
@@ -120,7 +120,7 @@
     "id": 79,
     "name": "Door Bell 14",
     "priority": 14,
-    "thumbnail": "drawable/door_bell_14.jpg",
+    "thumbnail": "image_resources/door_bell_14.jpg",
     "categoryId": 7,
     "isEvent": false,
     "isNew": false

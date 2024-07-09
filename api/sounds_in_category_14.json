@@ -3,7 +3,7 @@
     "id": 147,
     "name": "Mosquito 1",
     "priority": 1,
-    "thumbnail": "drawable/mosquito_1.jpg",
+    "thumbnail": "image_resources/mosquito_1.jpg",
     "categoryId": 14,
     "isEvent": false,
     "isNew": false
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Mosquito 2",
     "priority": 2,
-    "thumbnail": "drawable/mosquito_2.jpg",
+    "thumbnail": "image_resources/mosquito_2.jpg",
     "categoryId": 14,
     "isEvent": false,
     "isNew": false
@@ -21,7 +21,7 @@
     "id": 149,
     "name": "Mosquito 3",
     "priority": 3,
-    "thumbnail": "drawable/mosquito_3.jpg",
+    "thumbnail": "image_resources/mosquito_3.jpg",
     "categoryId": 14,
     "isEvent": false,
     "isNew": false
@@ -30,7 +30,7 @@
     "id": 150,
     "name": "Mosquito 4",
     "priority": 4,
-    "thumbnail": "drawable/mosquito_4.jpg",
+    "thumbnail": "image_resources/mosquito_4.jpg",
     "categoryId": 14,
     "isEvent": false,
     "isNew": false
@@ -39,7 +39,7 @@
     "id": 151,
     "name": "Mosquito 5",
     "priority": 5,
-    "thumbnail": "drawable/mosquito_5.jpg",
+    "thumbnail": "image_resources/mosquito_5.jpg",
     "categoryId": 14,
     "isEvent": false,
     "isNew": false
@@ -48,7 +48,7 @@
     "id": 152,
     "name": "Mosquito 6",
     "priority": 6,
-    "thumbnail": "drawable/mosquito_6.jpg",
+    "thumbnail": "image_resources/mosquito_6.jpg",
     "categoryId": 14,
     "isEvent": false,
     "isNew": false
@@ -57,7 +57,7 @@
     "id": 153,
     "name": "Mosquito 7",
     "priority": 7,
-    "thumbnail": "drawable/mosquito_7.jpg",
+    "thumbnail": "image_resources/mosquito_7.jpg",
     "categoryId": 14,
     "isEvent": false,
     "isNew": false

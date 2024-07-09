@@ -3,7 +3,7 @@
     "id": 194,
     "name": "Scissors 1",
     "priority": 1,
-    "thumbnail": "drawable/scissors_1.jpg",
+    "thumbnail": "image_resources/scissors_1.jpg",
     "categoryId": 18,
     "isEvent": false,
     "isNew": false
@@ -12,7 +12,7 @@
     "id": 195,
     "name": "Scissors 2",
     "priority": 2,
-    "thumbnail": "drawable/scissors_2.jpg",
+    "thumbnail": "image_resources/scissors_2.jpg",
     "categoryId": 18,
     "isEvent": false,
     "isNew": false
@@ -21,7 +21,7 @@
     "id": 196,
     "name": "Scissors 3",
     "priority": 3,
-    "thumbnail": "drawable/scissors_3.jpg",
+    "thumbnail": "image_resources/scissors_3.jpg",
     "categoryId": 18,
     "isEvent": false,
     "isNew": false
@@ -30,7 +30,7 @@
     "id": 197,
     "name": "Scissors 4",
     "priority": 4,
-    "thumbnail": "drawable/scissors_4.jpg",
+    "thumbnail": "image_resources/scissors_4.jpg",
     "categoryId": 18,
     "isEvent": false,
     "isNew": false
@@ -39,7 +39,7 @@
     "id": 198,
     "name": "Scissors 5",
     "priority": 5,
-    "thumbnail": "drawable/scissors_5.jpg",
+    "thumbnail": "image_resources/scissors_5.jpg",
     "categoryId": 18,
     "isEvent": false,
     "isNew": false

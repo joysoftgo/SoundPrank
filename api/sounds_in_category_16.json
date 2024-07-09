@@ -3,7 +3,7 @@
     "id": 162,
     "name": "Police Siren 1",
     "priority": 1,
-    "thumbnail": "drawable/police_siren_1.jpg",
+    "thumbnail": "image_resources/police_siren_1.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -12,7 +12,7 @@
     "id": 163,
     "name": "Police Siren 2",
     "priority": 2,
-    "thumbnail": "drawable/police_siren_2.jpg",
+    "thumbnail": "image_resources/police_siren_2.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -21,7 +21,7 @@
     "id": 164,
     "name": "Police Siren 3",
     "priority": 3,
-    "thumbnail": "drawable/police_siren_3.jpg",
+    "thumbnail": "image_resources/police_siren_3.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -30,7 +30,7 @@
     "id": 165,
     "name": "Police Siren 4",
     "priority": 4,
-    "thumbnail": "drawable/police_siren_4.jpg",
+    "thumbnail": "image_resources/police_siren_4.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -39,7 +39,7 @@
     "id": 166,
     "name": "Police Siren 5",
     "priority": 5,
-    "thumbnail": "drawable/police_siren_5.jpg",
+    "thumbnail": "image_resources/police_siren_5.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -48,7 +48,7 @@
     "id": 167,
     "name": "Police Siren 6",
     "priority": 6,
-    "thumbnail": "drawable/police_siren_6.jpg",
+    "thumbnail": "image_resources/police_siren_6.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -57,7 +57,7 @@
     "id": 168,
     "name": "Police Siren 7",
     "priority": 7,
-    "thumbnail": "drawable/police_siren_7.jpg",
+    "thumbnail": "image_resources/police_siren_7.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -66,7 +66,7 @@
     "id": 169,
     "name": "Police Siren 8",
     "priority": 8,
-    "thumbnail": "drawable/police_siren_8.jpg",
+    "thumbnail": "image_resources/police_siren_8.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -75,7 +75,7 @@
     "id": 170,
     "name": "Police Siren 9",
     "priority": 9,
-    "thumbnail": "drawable/police_siren_9.jpg",
+    "thumbnail": "image_resources/police_siren_9.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -84,7 +84,7 @@
     "id": 171,
     "name": "Police Siren 10",
     "priority": 10,
-    "thumbnail": "drawable/police_siren_10.jpg",
+    "thumbnail": "image_resources/police_siren_10.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -93,7 +93,7 @@
     "id": 172,
     "name": "Police Siren 11",
     "priority": 11,
-    "thumbnail": "drawable/police_siren_11.jpg",
+    "thumbnail": "image_resources/police_siren_11.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -102,7 +102,7 @@
     "id": 173,
     "name": "Police Siren 12",
     "priority": 12,
-    "thumbnail": "drawable/police_siren_12.jpg",
+    "thumbnail": "image_resources/police_siren_12.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -111,7 +111,7 @@
     "id": 174,
     "name": "Police Siren 13",
     "priority": 13,
-    "thumbnail": "drawable/police_siren_13.jpg",
+    "thumbnail": "image_resources/police_siren_13.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -120,7 +120,7 @@
     "id": 175,
     "name": "Police Siren 14",
     "priority": 14,
-    "thumbnail": "drawable/police_siren_14.jpg",
+    "thumbnail": "image_resources/police_siren_14.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
@@ -129,7 +129,7 @@
     "id": 176,
     "name": "Police Siren 15",
     "priority": 15,
-    "thumbnail": "drawable/police_siren_15.jpg",
+    "thumbnail": "image_resources/police_siren_15.jpg",
     "categoryId": 16,
     "isEvent": false,
     "isNew": false
